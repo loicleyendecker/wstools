@@ -9,6 +9,7 @@
 
 ident = "$Id$"
 
+import logging
 import weakref
 try:
     from io import StringIO
